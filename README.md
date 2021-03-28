@@ -1,6 +1,6 @@
 # Android Chorded Keyboard
  
-An Android virtual keyboard to connect to an experimental Bluetooth Chorded Keyboard. [link]
+An Android virtual keyboard to connect to an experimental Bluetooth Chorded Keyboard [Link](https://github.com/ids789/ChordedKeyboardFirmware). 
 
 The app registers itself onto a phone as a virtual keyboard service, when a text field is selected it will search for the keyboard over bluetooth. (by looking for a preset Bluetooth UUID)
 
@@ -15,3 +15,8 @@ The app implements a virtual keyboard allowing the use of the keyboard from any 
 - Type onto the keyboard using the chords displayed on screen as a reference.  
 - Switch between sets using the chords on the top row, each has a distinctive colour to make it clear which set is selected.  
 - Note: after installation it won't appear in the keyboard menu until it has been enabled from the input settings page
+
+<p float="left">
+  <img src="/misc/ScreenshotCH.jpg" width="200" /> 
+  <img src="/misc/demo.gif" width="530" />
+</p>
