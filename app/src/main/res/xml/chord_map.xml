@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChordTable xmlns:android="http://schemas.android.com/apk/res/android">
+    <ChordSet name="CONTROLS">
+        <ChordMapping chord="8" action="switch" value="CONTROLS">CONTROLS</ChordMapping>
+        <ChordMapping chord="4" action="switch" value="GROUP A">GROUP A</ChordMapping>
+        <ChordMapping chord="2" action="switch" value="GROUP B">GROUP B</ChordMapping>
+        <ChordMapping chord="11" action="function" value="abort">ABORT</ChordMapping>
+        <ChordMapping chord="16" action="key" value="space">␣</ChordMapping>
+        <ChordMapping chord="10" action="key" value="backspace">&#x232B;</ChordMapping>
+        <ChordMapping chord="19" action="key" value="delete">⌦</ChordMapping>
+        <ChordMapping chord="28" action="function" value="clear">CLEAR</ChordMapping>
+        <ChordMapping chord="12" action="key" value="home">⇤</ChordMapping>
+        <ChordMapping chord="3" action="key" value="end">⇥</ChordMapping>
+        <ChordMapping chord="17" action="key" value="right">&#x2192;</ChordMapping>
+        <ChordMapping chord="18" action="key" value="down">&#x2193;</ChordMapping>
+        <ChordMapping chord="20" action="key" value="up">&#x2191;</ChordMapping>
+        <ChordMapping chord="24" action="key" value="left">&#x2190;</ChordMapping>
+    </ChordSet>
+    <ChordSet name="GROUP A">
+        <ChordMapping chord="8" action="switch" value="CONTROLS">CONTROLS</ChordMapping>
+        <ChordMapping chord="4" action="switch" value="GROUP A">GROUP A</ChordMapping>
+        <ChordMapping chord="2" action="switch" value="GROUP B">GROUP B</ChordMapping>
+        <ChordMapping chord="1" action="switch" value="GROUP A*">SHIFT</ChordMapping>
+        <ChordMapping chord="10" action="key" value="backspace">&#x232B;</ChordMapping>
+        <ChordMapping chord="16" action="key" value="space">␣</ChordMapping>
+        <ChordMapping chord="17" action="key" value="a">a</ChordMapping>
+        <ChordMapping chord="21" action="key" value="b">b</ChordMapping>
+        <ChordMapping chord="22" action="key" value="c">c</ChordMapping>
+        <ChordMapping chord="25" action="key" value="d">d</ChordMapping>
+        <ChordMapping chord="3" action="key" value="e">e</ChordMapping>
+        <ChordMapping chord="30" action="key" value="f">f</ChordMapping>
+        <ChordMapping chord="23" action="key" value="g">g</ChordMapping>
+        <ChordMapping chord="9" action="key" value="h">h</ChordMapping>
+        <ChordMapping chord="20" action="key" value="i">i</ChordMapping>
+        <ChordMapping chord="13" action="key" value="j">j</ChordMapping>
+        <ChordMapping chord="26" action="key" value="k">k</ChordMapping>
+        <ChordMapping chord="6" action="key" value="l">l</ChordMapping>
+        <ChordMapping chord="14" action="key" value="m">m</ChordMapping>
+        <ChordMapping chord="24" action="key" value="n">n</ChordMapping>
+        <ChordMapping chord="18" action="key" value="o">o</ChordMapping>
+        <ChordMapping chord="7" action="key" value="p">p</ChordMapping>
+        <ChordMapping chord="28" action="key" value="r">r</ChordMapping>
+        <ChordMapping chord="19" action="key" value="s">s</ChordMapping>
+        <ChordMapping chord="12" action="key" value="t">t</ChordMapping>
+        <ChordMapping chord="15" action="key" value="u">u</ChordMapping>
+        <ChordMapping chord="29" action="key" value="v">v</ChordMapping>
+        <ChordMapping chord="5" action="key" value="w">w</ChordMapping>
+        <ChordMapping chord="11" action="key" value="x">x</ChordMapping>
+        <ChordMapping chord="27" action="key" value="y">y</ChordMapping>
+    </ChordSet>
+    <ChordSet name="GROUP A*"><!-- Shifted Group A-->
+        <ChordMapping chord="8" action="switch" value="CONTROLS">CONTROLS</ChordMapping>
+        <ChordMapping chord="4" action="switch" value="GROUP A">GROUP A</ChordMapping>
+        <ChordMapping chord="2" action="switch" value="GROUP B">GROUP B</ChordMapping>
+        <ChordMapping chord="1" action="switch" value="GROUP A*">SHIFT</ChordMapping>
+        <ChordMapping chord="10" action="key" value="backspace">&#x232B;</ChordMapping>
+        <ChordMapping chord="16" action="key" value="space">␣</ChordMapping>
+        <ChordMapping chord="17" action="key" value="A">A</ChordMapping>
+        <ChordMapping chord="21" action="key" value="B">B</ChordMapping>
+        <ChordMapping chord="22" action="key" value="C">C</ChordMapping>
+        <ChordMapping chord="25" action="key" value="D">D</ChordMapping>
+        <ChordMapping chord="3" action="key" value="E">E</ChordMapping>
+        <ChordMapping chord="30" action="key" value="F">F</ChordMapping>
+        <ChordMapping chord="23" action="key" value="G">G</ChordMapping>
+        <ChordMapping chord="9" action="key" value="H">H</ChordMapping>
+        <ChordMapping chord="20" action="key" value="I">I</ChordMapping>
+        <ChordMapping chord="13" action="key" value="J">J</ChordMapping>
+        <ChordMapping chord="26" action="key" value="K">K</ChordMapping>
+        <ChordMapping chord="6" action="key" value="L">L</ChordMapping>
+        <ChordMapping chord="14" action="key" value="M">M</ChordMapping>
+        <ChordMapping chord="24" action="key" value="N">N</ChordMapping>
+        <ChordMapping chord="18" action="key" value="O">O</ChordMapping>
+        <ChordMapping chord="7" action="key" value="P">P</ChordMapping>
+        <ChordMapping chord="28" action="key" value="R">R</ChordMapping>
+        <ChordMapping chord="19" action="key" value="S">S</ChordMapping>
+        <ChordMapping chord="12" action="key" value="T">T</ChordMapping>
+        <ChordMapping chord="15" action="key" value="U">U</ChordMapping>
+        <ChordMapping chord="29" action="key" value="V">V</ChordMapping>
+        <ChordMapping chord="5" action="key" value="W">W</ChordMapping>
+        <ChordMapping chord="11" action="key" value="X">X</ChordMapping>
+        <ChordMapping chord="27" action="key" value="Y">Y</ChordMapping>
+    </ChordSet>
+    <ChordSet name="GROUP B">
+        <ChordMapping chord="8" action="switch" value="CONTROLS">CONTROLS</ChordMapping>
+        <ChordMapping chord="4" action="switch" value="GROUP A">GROUP A</ChordMapping>
+        <ChordMapping chord="2" action="switch" value="GROUP B">GROUP B</ChordMapping>
+        <ChordMapping chord="1" action="switch" value="GROUP B*">SHIFT</ChordMapping>
+        <ChordMapping chord="10" action="key" value="backspace">&#x232B;</ChordMapping>
+        <ChordMapping chord="16" action="key" value="space">␣</ChordMapping>
+        <ChordMapping chord="12" action="key" value="newline">↵</ChordMapping>
+        <ChordMapping chord="28" action="key" value="tab">TAB</ChordMapping>
+        <ChordMapping chord="11" action="key" value="z">z</ChordMapping>
+        <ChordMapping chord="26" action="key" value="q">q</ChordMapping>
+        <ChordMapping chord="3" action="key" value="0">0</ChordMapping>
+        <ChordMapping chord="17" action="key" value="1">1</ChordMapping>
+        <ChordMapping chord="18" action="key" value="2">2</ChordMapping>
+        <ChordMapping chord="19" action="key" value="3">3</ChordMapping>
+        <ChordMapping chord="20" action="key" value="4">4</ChordMapping>
+        <ChordMapping chord="21" action="key" value="5">5</ChordMapping>
+        <ChordMapping chord="22" action="key" value="6">6</ChordMapping>
+        <ChordMapping chord="23" action="key" value="7">7</ChordMapping>
+        <ChordMapping chord="24" action="key" value="8">8</ChordMapping>
+        <ChordMapping chord="25" action="key" value="9">9</ChordMapping>
+        <ChordMapping chord="15" action="key" value="?">?</ChordMapping>
+        <ChordMapping chord="14" action="key" value="!">!</ChordMapping>
+        <ChordMapping chord="30" action="key" value=",">,</ChordMapping>
+        <ChordMapping chord="7" action="key" value=".">.</ChordMapping>
+        <ChordMapping chord="29" action="key" value=":">:</ChordMapping>
+        <ChordMapping chord="5" action="key" value="-">-</ChordMapping>
+        <ChordMapping chord="13" action="key" value="+">+</ChordMapping>
+        <ChordMapping chord="9" action="key" value="(">(</ChordMapping>
+        <ChordMapping chord="6" action="key" value=")">)</ChordMapping>
+        <ChordMapping chord="27" action="key" value="&quot;">"</ChordMapping>
+    </ChordSet>
+    <ChordSet name="GROUP B*"><!-- Shifted Group B-->
+        <ChordMapping chord="8" action="switch" value="CONTROLS">CONTROLS</ChordMapping>
+        <ChordMapping chord="4" action="switch" value="GROUP A">GROUP A</ChordMapping>
+        <ChordMapping chord="2" action="switch" value="GROUP B">GROUP B</ChordMapping>
+        <ChordMapping chord="1" action="switch" value="GROUP B*">SHIFT</ChordMapping>
+        <ChordMapping chord="10" action="key" value="backspace">&#x232B;</ChordMapping>
+        <ChordMapping chord="16" action="key" value="space">␣</ChordMapping>
+        <ChordMapping chord="11" action="key" value="Z">Z</ChordMapping>
+        <ChordMapping chord="26" action="key" value="Q">Q</ChordMapping>
+        <ChordMapping chord="3" action="key" value="&lt;">&lt;</ChordMapping>
+        <ChordMapping chord="12" action="key" value="&gt;">&gt;</ChordMapping>
+        <ChordMapping chord="17" action="key" value="_">_</ChordMapping>
+        <ChordMapping chord="18" action="key" value="~">~</ChordMapping>
+        <ChordMapping chord="20" action="key" value="`">`</ChordMapping>
+        <ChordMapping chord="24" action="key" value="@">@</ChordMapping>
+        <ChordMapping chord="19" action="key" value="#">#</ChordMapping>
+        <ChordMapping chord="28" action="key" value="$">$</ChordMapping>
+        <ChordMapping chord="9" action="key" value="%">%</ChordMapping>
+        <ChordMapping chord="6" action="key" value="^">^</ChordMapping>
+        <ChordMapping chord="25" action="key" value="&amp;">&amp;</ChordMapping>
+        <ChordMapping chord="22" action="key" value="*">*</ChordMapping>
+        <ChordMapping chord="15" action="key" value="[">[</ChordMapping>
+        <ChordMapping chord="14" action="key" value="]">]</ChordMapping>
+        <ChordMapping chord="30" action="key" value="{">{</ChordMapping>
+        <ChordMapping chord="7" action="key" value="}">}</ChordMapping>
+        <ChordMapping chord="23" action="key" value="=">=</ChordMapping>
+        <ChordMapping chord="27" action="key" value="\">\</ChordMapping>
+        <ChordMapping chord="21" action="key" value="'">'</ChordMapping>
+        <ChordMapping chord="29" action="key" value=";">;</ChordMapping>
+        <ChordMapping chord="13" action="key" value="/">/</ChordMapping>
+    </ChordSet>
+</ChordTable>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="ref_key">#303030</color>
+    <color name="ref_switch">#303030</color>
+    <color name="ref_switch_sel">#494949</color>
+    <color name="chord_btn_pressed">#FFFFFF</color>
+    <color name="chord_btn_released">#4E4E4E</color>
+    <color name="ref_background">#000000</color>
+    <color name="static_text">#FFFFFF</color>
+    <color name="group_a">#2196F3</color>
+    <color name="group_b">#4CAF50</color>
+    <color name="controls_group">#FFC107</color>
+    <color name="shift_group">#F44336</color>
+</resources>

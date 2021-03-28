@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChordedKeyboard</string>
+    <string name="ble_service_uuid">5ed01400-eb89-51a7-694d-6141b6a34e44</string>
+    <string name="ble_charactoristic_uuid">5ed01401-eb89-51a7-694d-6141b6a34e44</string>
+    <string name="keyboard_disconnected">⚠ Keyboard Disconnected</string>
+    <string name="bluetooth_disabled">⚠ Bluetooth is disabled</string>
+</resources>
